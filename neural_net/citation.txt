@@ -1,0 +1,1 @@
+How to Quickly Train a Text-Generating Neural Network for Free - By Max Woolf - https://minimaxir.com/2018/05/text-neural-networks/ - Using Google Colaboratory
